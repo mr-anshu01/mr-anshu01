@@ -3,7 +3,7 @@
 - 👀 I’m interested in Java developer
 - 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate on any Java/HTML/Css projects
-- 📫 How to reach me linkedin.com/in/anshusingh0001
+- 📫 How to reach me- https://rb.gy/r8nijl
 - ⚡ Pursuing MCA from LPU, Punjab
 
 <!---
